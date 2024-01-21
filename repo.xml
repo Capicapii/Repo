@@ -1,0 +1,14 @@
+<repo>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://twitter.com/?</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>Capi's repo powered by GitHub Pages</name>
+            <url>https://capicapii.github.io/repo/</url>
+            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+        </link>
+    </footerlinks>
+</repo>
